@@ -18,7 +18,7 @@ console.log("Lowercase Email:", lowerCaseEmail);
 
 let hasReact = student.course.includes("React");
 console.log("Course includes React:", hasReact);
- 
+
 let nodeIndex = student.course.indexOf("Node");
 console.log("Index of Node in course:", nodeIndex);
 
