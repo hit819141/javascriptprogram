@@ -34,3 +34,4 @@ console.log("replace():", str.replace("welcome", "hello"));
 console.log("concat():", str.concat(" Have a nice day!"));
 
 console.log("split():", str.split(" "));
+
